@@ -6,7 +6,7 @@ A very subgame for the much Minetest engine
 The Minetest engine can be found in:
 	https://github.com/minetest/minetest/
 
-GitHub Ðogeworld Repo: https://github.com/minetest/dogeworld
+Ðogeworld source: https://github.com/dogetest/dogeworld
 
 Introduction
 ------------
@@ -24,7 +24,7 @@ To use this subgame with the Minetest engine, insert this repository as
 
 Compatibility
 --------------
-The Ðogeworld Game github master HEAD is generally compatible with the github
+The Ðogeworld Game github master HEAD should be compatible with the github
 master HEAD of the Minetest engine.
 
 Licensing
